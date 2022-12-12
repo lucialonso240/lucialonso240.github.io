@@ -1,0 +1,87 @@
+body {
+    font-family:Verdana,sans-serif;
+	font-size:0.9em;
+	
+	
+}
+header {
+    font-size:px;
+  	margin:5px;
+	margin-bottom:15px;
+	padding:8px;
+   	font-family: Arial, Helvetica, sans-serif;
+   	text-align : center;
+	color:#309;
+   	position: absolute;
+   	top:0; left: 0;
+	height: 100px;
+    width:100%;
+    background-color:white;
+
+}
+POS2{
+	position: absolute;
+   	top:100px; left: 0px;
+}
+footer {
+ 	font-style:italic;
+	font-size:0.8em;
+	margin-left:25px;
+	
+}
+section {
+	
+	margin-left:15px;
+   	font-style:italic;
+	color: pink;
+}
+article {
+	margin-left:25px;
+    font-style:normal;
+	color:black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+aside {
+    background-color:black;
+	position: absolute;
+    top: 20%; right: 0;
+	bottom: 0;
+	padding-left: 15px;
+    width: 15%;
+    
+}
+nav ul  {
+    margin:0;padding:0; 
+	background-color: pink;
+}
+nav ul li {
+    display:inline; margin:15px; 
+}
+nav li a { color: #fff;
+text-decoration: none;
+}
+p {
+	color:black;
+}
+.texto{
+	color: black;
+}
+.segura{
+	color:pink;
+	
+	 
+}
+.descripcion{
+	margin-left: 20px;
+	bottom: 60px;
+}
+.características {
+	font-style:italic;
+	color: black;
+	margin-left:20px;
+	bottom: 40px;
+}
+. notificacion {
+	margin-left: 50px
+}
+
